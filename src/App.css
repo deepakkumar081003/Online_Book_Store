@@ -7,6 +7,28 @@
   pointer-events: none;
 }
 
+.login{
+  margin-top: 20%;
+  margin-left: 35%;
+  margin-right: 35%;
+  background-color: aqua;
+}
+
+.c-grid{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+}
+
+.c-img{
+  height:230px;
+  width:100%;
+  object-fit: contain;
+}
+
+.c-prod{
+  padding:40px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
