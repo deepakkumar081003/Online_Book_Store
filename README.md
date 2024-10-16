@@ -16,7 +16,7 @@ Database: MongoDB
   
 How to Run  
 Clone the repository:  
-git clone https://github.com/your-username/online-bookstore.git
+git clone https://github.com/your-username/Online_Book_Store.git
   
 Install dependencies:  
 npm install  
