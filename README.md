@@ -1,5 +1,7 @@
 # Online_Book_Store  
 
+Switch to master branch to see the code
+  
 Description  
 The Online Bookstore is a full-stack web application where users can browse, add, remove, and update books in their personalized shopping cart. The application supports individual user accounts with custom shopping carts.
   
